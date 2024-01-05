@@ -1,2 +1,2 @@
 # Hywiz_Projects
-[https://elementor.tryshort.com/createstudio/]
+https://elementor.tryshort.com/createstudio/
